@@ -1,0 +1,9 @@
+1. useRouteMatch provides access to an object that if provided with no arguments, will return
+the closest match url in the component or its parents. It serves the purpose to construct
+nested paths.
+
+2. Form Validation occurs after the user enters all fo the required details to perform that
+specific task.
+
+3. End to end testing is a slower test implementation that involves functions and classes 
+that associate with one another. 
