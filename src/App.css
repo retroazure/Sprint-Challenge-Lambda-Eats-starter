@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+}
+.nav-bar h1{ 
+  font-size: 2rem;
+  padding-right: 1000px;
+  padding-left: 50px;
+}
+
+.nav-bar h2 {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  margin: 20px;
+  font-size: 1.5rem;
+}
+
