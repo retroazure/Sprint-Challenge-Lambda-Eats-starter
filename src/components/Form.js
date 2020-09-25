@@ -118,11 +118,12 @@ const Form = (props)=>
 
                     <Router>
                         <Redirect push to='/thanks' />
-
+                        <div className="pizzaDelivery">
                         <h1>Congrats! Pizza is on its way!</h1>
 
-                        <img src='https://media.giphy.com/media/9fuvOqZ8tbZOU/giphy.gif' alt='gif' />
-
+<                        img src='https://media.giphy.com/media/9fuvOqZ8tbZOU/giphy.gif' alt='gif' />   
+                        </div>
+                        
                     </Router>,
                     
                     document.querySelector('.App')
